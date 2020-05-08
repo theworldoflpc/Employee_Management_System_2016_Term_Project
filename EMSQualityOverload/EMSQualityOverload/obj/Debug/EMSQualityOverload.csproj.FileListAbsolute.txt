@@ -1,0 +1,14 @@
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\bin\Debug\EMSQualityOverload.exe.config
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\bin\Debug\EMSQualityOverload.exe
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\bin\Debug\EMSQualityOverload.pdb
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\bin\Debug\AllEmployees.dll
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\bin\Debug\Presentation.dll
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\bin\Debug\Supporting.dll
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\bin\Debug\TheCompany.dll
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\bin\Debug\AllEmployees.pdb
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\bin\Debug\Presentation.pdb
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\bin\Debug\Supporting.pdb
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\bin\Debug\TheCompany.pdb
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\obj\Debug\EMSQualityOverload.csprojResolveAssemblyReference.cache
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\obj\Debug\EMSQualityOverload.exe
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\EMSQualityOverload\obj\Debug\EMSQualityOverload.pdb

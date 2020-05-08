@@ -1,0 +1,11 @@
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\Presentation\bin\Debug\Presentation.dll
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\Presentation\bin\Debug\AllEmployees.dll
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\Presentation\bin\Debug\TheCompany.dll
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\Presentation\bin\Debug\Supporting.dll
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\Presentation\bin\Debug\AllEmployees.pdb
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\Presentation\bin\Debug\TheCompany.pdb
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\Presentation\bin\Debug\Supporting.pdb
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\Presentation\obj\Debug\Presentation.dll
+C:\Users\Lcoca\OneDrive\Documents\GitHub\Employee_Management_System_2016\EMSQualityOverload\Presentation\obj\Debug\Presentation.pdb
